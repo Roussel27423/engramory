@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "A portable memory protocol for AI agents — load it as standing rules; a curation discipline + reference spec + optional cap hook."
 requires-python = ">=3.10"
 # drop an unused branch
+# handle the edge case from the last release
